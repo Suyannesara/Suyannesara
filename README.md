@@ -6,7 +6,7 @@
 
 |         |![qualities](/images/Qualities.png "qualities")          |          |
 | ------- | -------- | -------- |
-| ![woman](/images/woman.png "woman") |<h3>Ousada como a princesa Leia</h3><br><br><h3>Leal como a Viuva Negra</h3><br><br><h3>Persistente como a mulher maravilha</h3> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyannesara&layout=compact)](https://github.com/Suyannesara/github-readme-stats)                |
+| ![woman](/images/woman.png "woman") |<h2>Ousada como a princesa Leia</h3><br><br><h2>Leal como a Viuva Negra</h2><br><br><h2>Persistente como a mulher maravilha</h2> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyannesara&layout=compact)](https://github.com/Suyannesara/github-readme-stats)                |
 |         |          |           |   
 
 
