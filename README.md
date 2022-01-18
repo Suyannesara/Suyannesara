@@ -1,4 +1,4 @@
-# What's up?!
+# What's up?! ✌️
 
 #### My name is Suyanne, but you can call me Sara. I do use web developent and project management to cause 
 #### a positive social impact on my community.
@@ -6,7 +6,7 @@
 
 |         |![qualities](/images/Qualities.png "qualities")          |          |
 | ------- | -------- | -------- |
-| ![woman](/images/woman.png "woman") |<h4>Ousada como a princesa Leia</h4><br><br><h4>Leal como a Viuva Negra</h4><br><br><h4>Persistente como a mulher maravilha</h4> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyannesara&layout=compact)](https://github.com/Suyannesara/github-readme-stats)                |
+| ![woman](/images/woman.png "woman") |<h4>Ousada como a princesa Leia</h4><br><h4>Leal como a Viuva Negra</h4><br><h4>Persistente como a mulher maravilha</h4><br> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyannesara&layout=compact)](https://github.com/Suyannesara/github-readme-stats)                |
 |         |          |           |   
 
 
