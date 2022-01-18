@@ -1,7 +1,5 @@
 # What's up?! ✌️
-
-#### My name is Suyanne, but you can call me Sara. I do use web developent and project management to cause 
-#### a positive social impact on my community.
+> My name is Suyanne, but you can call me Sara. I do use web developent and project management to cause a positive social impact on my community.
 
 
 |         |![qualities](/images/Qualities.png "qualities")          |          |
