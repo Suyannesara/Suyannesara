@@ -9,6 +9,7 @@
   <style>
     body{
       color:blue;
+      margin:40px;
     }
     div{
       display:flex;
