@@ -23,7 +23,7 @@
   <br>
 
   > ### Let's take a coffee?
-  > <a about="_blank" href="https://www.linkedin.com/in/suyanne-miranda/"><img src="images/lkdinLogo.svg"></a> 
-  > <a about="_blank" href="https://stackoverflow.com/users/17331573/suyanne-miranda"><img src="images/StackOverflow.svg"></a> 
-  > <a about="_blank" href="https://www.behance.net/suyannesara"><img src="images/Behance.svg"> <br></a>
+  > <a target="_blank" href="https://www.linkedin.com/in/suyanne-miranda/"><img src="images/lkdinLogo.svg"></a> 
+  > <a target="_blank" href="https://stackoverflow.com/users/17331573/suyanne-miranda"><img src="images/StackOverflow.svg"></a> 
+  > <a target="_blank" href="https://www.behance.net/suyannesara"><img src="images/Behance.svg"> <br></a>
   > <small>May the coffee be with you  <img src="images/wars.svg" align="center"></small> 
