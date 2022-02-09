@@ -11,19 +11,19 @@
 </head>
 <body style="font-size:10pt;font-family:'Roboto',sans-serif;">
   <h2>What’s up?✌️</h2>
-  <p>My name is Suyanne, but you can call me Sara. I do use web development <br>and project management  to cause a positive social impact on my community.</p>
+  <p>My name is Suyanne, but you can call me Sara. I like to see codes as a way I can use to<br>cause a positive impact on my community.</p>
 
   |                                                 |                            |  
   |---|---|
-  |<p><img src="images/LeiaIcon.svg" alt="">Bold like princess Leia</p><p><img src="images/ViuvaIcon.svg" alt="">Loyal like Black Widow</p><p><img src="images/WonderWomanIcon.svg" alt="">Persistent like Wonder Woman</p>|<p>Update status:<h3>Solving a <b><span style="color:#0277BD;">problem . . .</span></b></h3>Want you to join me on it? <br></p><br><p>I’m looking for challenges that’ll fire my <br>knowledge🕵🏻‍♀️</p>   | 
+  |<p><img align="center" src="images/LeiaIcon.svg" alt="">     Bold like princess Leia</p> <br> <p><img align="center" src="images/ViuvaIcon.svg" alt="">  Loyal like Black Widow</p> <br> <p><img align="center" src="images/WonderWomanIcon.svg" alt="">   Persistent like Wonder Woman</p>|<p>Update status:<h3><mark>Solving a <b><span style="bakgroud-color:#0277BD;">problem . . .</span></b></mark></h3>Want you to join me on it? <br></p><br><p>I’m looking for challenges that’ll fire my <br><mark>knowledge</mark>🕵🏻‍♀️</p>   | 
 
   |                                      |                               |  
   |---|---|
-  |<h3>I’m an entusiast of:  </h3>Coffee ☕ Plants🌵 <br> Super-hero narratives 🛡️|<h3>Interested in: </h3><img align="center" src="images/CssIcon.svg" alt="Css"><img align="center" src="images/HtmlIcon.svg" alt="HTML"><img align="center" src="images/JsIcon.svg" alt="JavaScript"><img align="center" src="images/KotlinIcon.svg" alt="Kotlin"><img align="center" src="images/PhpIcon.svg" alt="PHP">   |
+  |<h3>I’m an entusiast of:</h3>Coffee ☕ Plants🌵 <br> Super-hero narratives 🛡️|<h3>Interested in: </h3><img align="center" src="images/CssIcon.svg" alt="Css"><img align="center" src="images/HtmlIcon.svg" alt="HTML"><img align="center" src="images/JsIcon.svg" alt="JavaScript"><img align="center" src="images/KotlinIcon.svg" alt="Kotlin"><img align="center" src="images/PhpIcon.svg" alt="PHP"><br><br>   |
   <br>
 
-  > ### Let's take a coffee?
-  > <a target="_blank" href="https://www.linkedin.com/in/suyanne-miranda/"><img src="images/lkdinLogo.svg"></a> 
-  > <a target="_blank" href="https://stackoverflow.com/users/17331573/suyanne-miranda"><img src="images/StackOverflow.svg"></a> 
-  > <a target="_blank" href="https://www.behance.net/suyannesara"><img src="images/Behance.svg"> <br></a>
-  > <small>May the coffee be with you  <img src="images/wars.svg" align="center"></small> 
+> ### Let's take a coffee?
+> <a target="_blank" href="https://www.linkedin.com/in/suyanne-miranda/"><img src="images/lkdinLogo.svg"></a> 
+> <a target="_blank" href="https://stackoverflow.com/users/17331573/suyanne-miranda"><img src="images/StackOverflow.svg"></a> 
+> <a target="_blank" href="https://www.behance.net/suyannesara"><img src="images/Behance.svg"> <br></a>
+> <small>May the coffee be with you  <img src="images/wars.svg" align="center"></small> 
