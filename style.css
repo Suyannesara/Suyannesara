@@ -1,0 +1,28 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  font-size: 10pt;
+  font-family: 'Roboto', sans-serif;
+}
+main{
+  display: flex;
+  margin-top:35px;
+}
+main .text{
+  margin-left:40px;
+  font-weight: 400;
+}
+.text h2{
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.text b{
+  color: #0277BD;
+}
+.technologies{
+  margin-top: 20px;
+}
+ 
