@@ -9,7 +9,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
-  </head>
     <style>
       *{
         margin: 0px;
@@ -38,7 +37,7 @@
         margin-top: 20px;
       }
     </style>
-
+  </head>
   <body>
     <h2>What’s up?✌️</h2>
     <p>My name is Suyanne, but you can call me Sara. I do use web development <br>and project management  to cause a positive social impact on my community.</p>
