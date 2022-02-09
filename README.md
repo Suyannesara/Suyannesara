@@ -19,7 +19,7 @@
 
   |                                      |                               |  
   |---|---|
-  |<h3>I’m an entusiast of:  </h3>Coffee ☕ Plants🌵 <br> Super-hero narratives 🛡️|<h3>Interested in: </h3><img src="images/CssIcon.svg" alt="Css"><img src="images/HtmlIcon.svg" alt="HTML"><img src="images/JsIcon.svg" alt="JavaScript"><img src="images/KotlinIcon.svg" alt="Kotlin"><img src="images/PhpIcon.svg" alt="PHP">   |
+  |<h3>I’m an entusiast of:  </h3>Coffee ☕ Plants🌵 <br> Super-hero narratives 🛡️|<h3>Interested in: </h3><img align="center" src="images/CssIcon.svg" alt="Css"><img align="center" src="images/HtmlIcon.svg" alt="HTML"><img align="center" src="images/JsIcon.svg" alt="JavaScript"><img align="center" src="images/KotlinIcon.svg" alt="Kotlin"><img align="center" src="images/PhpIcon.svg" alt="PHP">   |
   <br>
 
   > ### Let's take a coffee?
