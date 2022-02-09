@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -37,8 +37,8 @@
         margin-top: 20px;
       }
     </style>
-  </head>
-  <body>
+</head>
+<body>
     <h2>What’s up?✌️</h2>
     <p>My name is Suyanne, but you can call me Sara. I do use web development <br>and project management  to cause a positive social impact on my community.</p>
     <main>
@@ -83,5 +83,5 @@
           
         Coffee ☕ Plants 🌵 Super-hero narratives 🛡️
     </div>
-  </body>
+</body>
 </html>
