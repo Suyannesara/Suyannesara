@@ -15,7 +15,7 @@
 
   |                                                 |                            |  
   |---|---|
-  |<p><img src="images/LeiaIcon.svg" alt="">Bold like princess Leia</p><p><img src="images/ViuvaIcon.svg" alt="">Loyal like Black Widow</p><p><img src="images/WonderWomanIcon.svg" alt="">Persistent like Wonder Woman</p>|<p>Update status:<h2>problem . . .</b></h2>Want you to join me on it? <br></p><br><p>I’m looking for challenges that’ll fire my <br>knowledge</p>   | 
+  |<p><img src="images/LeiaIcon.svg" alt="">Bold like princess Leia</p><p><img src="images/ViuvaIcon.svg" alt="">Loyal like Black Widow</p><p><img src="images/WonderWomanIcon.svg" alt="">Persistent like Wonder Woman</p>|<p>Update status:<h2>Solving a <b><span style="color:#0277BD;">problem . . .</span></b></h2>Want you to join me on it? <br></p><br><p>I’m looking for challenges that’ll fire my <br>knowledge</p>   | 
 
   |                                      |                               |  
   |---|---|
