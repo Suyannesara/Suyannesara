@@ -10,15 +10,22 @@
 
 
   <p align="center">My name is Suyanne, but you can call me Sara. I like to see codes as a way I can use to<br>cause a positive impact on my community.</p>
-    <p align="center" ><img width="15px" align="center" src="images/LeiaIcon.svg" alt="">Bold like princess Leia | 
-  <img width="15px" align="center" src="images/ViuvaIcon.svg" alt="">Loyal like Black Widow
-  |
-  <img width="15px" align="center" src="images/WonderWomanIcon.svg" alt="">Persistent like Wonder Woman</p>
+  
+  <div align="center">
+  
+  ```Bold like princess Leia```
+   | 
+  <img width="15px" align="center" src="images/LeiaIcon.svg" alt=""> 
+
+  ```Loyal like Black Widow```
+    |
+  <img width="15px" align="center" src="images/ViuvaIcon.svg" alt="">  
+
+  ```Persistent like Wonder Woman```
+    |
+  <img width="15px" align="center" src="images/WonderWomanIcon.svg" alt="">
+  </div>
   <br>
-
-
- 
-
 
   <div align="center"> 
   <h3><a href="https://suyannesara.github.io/" align="center" >Click here and find out my projects!</a></h3>
