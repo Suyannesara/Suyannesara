@@ -9,7 +9,7 @@
   <h2 align="center">What’s up?✌️</h2>
 
 
-  <p align="center">My name is Suyanne, but you can call me Sara. I like to see codes as a way I can use to<br>cause a positive impact on my community.</p>
+  <p align="center">My name is Suyanne. I like to see codes as a way I can use to<br>cause a positive impact on my community.</p>
   
   <div align="center">
   
