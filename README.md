@@ -34,7 +34,7 @@
   ``` - I'm an entusiast of:  ``` <br>
   ```Coffee☕| Plants🌵 | Super-hero narratives🛡️``` <br> <br>
   ``` Interested in: ```
-  <img align="center" src="images/CssIcon.svg" alt="Css"><img align="center" src="images/HtmlIcon.svg" alt="HTML"><img align="center" src="images/JsIcon.svg" alt="JavaScript"><img align="center" src="images/KotlinIcon.svg" alt="Kotlin"><img align="center" src="images/PhpIcon.svg" alt="PHP">
+  <img align="center" src="images/CssIcon.svg" alt="Css"><img align="center" src="images/HtmlIcon.svg" alt="HTML"><img align="center" src="images/JsIcon.svg" alt="JavaScript"><img align="center" width="20px" src="images/vue.png" alt="Vue"><img align="center" width="20px" src="images/react.png" alt="React"><img align="center" width="20px" src="images/node.png" alt="Node">
   </div>
   </div>
   <br><br>
