@@ -28,7 +28,7 @@
   <br>
 
   <div align="center"> 
-  <h3><a href="https://suyannesara.github.io/" align="center" >Click here and find out my projects!</a></h3>
+  <!-- <h3><a href="https://suyannesara.github.io/" align="center" >Click here and find out my projects!</a></h3> -->
 
   ``` - 👩🏻‍💻 ADS Student at SENAC DF ``` <br>
   ``` - I'm an entusiast of:  ``` <br>
