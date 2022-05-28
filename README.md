@@ -44,6 +44,8 @@
     <a href="https://www.linkedin.com/in/suyanne-miranda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
     <small>May the coffee be with you  <img src="images/wars.svg" align="center"></small> 
   </div>
+  
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyanneSara&layout=compact&langs_count=7&theme=dracula"/>
 
   <!-- |                                      |                               |  
   |---|---|
