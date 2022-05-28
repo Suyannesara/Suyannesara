@@ -45,7 +45,8 @@
     <small>May the coffee be with you  <img src="images/wars.svg" align="center"></small> 
   </div>
   
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyanneSara&layout=compact&langs_count=7&theme=dracula"/>
+  <div align="center"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyanneSara&layout=compact&langs_count=7&theme=dracula"/></div>
+  
 
   <!-- |                                      |                               |  
   |---|---|
