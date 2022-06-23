@@ -1,60 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body style="font-size:10pt;font-family:'Roboto',sans-serif;">
-  <h2 align="center">What’s up?✌️</h2>
+### 👩🏻‍💻 About Me:
+💭 I like to see codes as a way I can use to cause a positive impact on my community.<br>👩🏻‍🎓 I'm doing a degree in Analysis and Development of Systems<br>🤓 I'm an enthusiast of: Coffee☕| Plants🌵 | Super-hero narratives🛡️<br>🌱 I’m currently learning Vue.js integrations with APIs with Axios<br> 
 
 
-  <p align="center">My name is Suyanne. I like to see codes as a way I can use to<br>cause a positive impact on my community.</p>
-  
-  <div align="center">
-  
-  ```Bold like princess Leia```
-   | 
-  <img width="15px" align="center" src="images/LeiaIcon.svg" alt=""> 
+### 🌐 Let's take a coffee?: 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Suyanne#9896) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suyanne-miranda) 
 
-  ```Loyal like Black Widow```
-    |
-  <img width="15px" align="center" src="images/ViuvaIcon.svg" alt="">  
+### 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) <br>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-  ```Persistent like Wonder Woman```
-    |
-  <img width="15px" align="center" src="images/WonderWomanIcon.svg" alt="">
-  </div>
-  <br>
+### 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Suyannesara&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Suyannesara&theme=vue-dark&hide_border=true)<br/>  -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyannesara&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  <div align="center"> 
-  <!-- <h3><a href="https://suyannesara.github.io/" align="center" >Click here and find out my projects!</a></h3> -->
+---
+[![](https://visitcount.itsvg.in/api?id=Suyannesara&icon=3&color=8)](https://visitcount.itsvg.in)
 
-  ``` - 👩🏻‍💻 ADS Student at SENAC DF ``` <br>
-  ``` - I'm an entusiast of:  ``` <br>
-  ```Coffee☕| Plants🌵 | Super-hero narratives🛡️``` <br> <br>
-  ``` Interested in: ```
-  <img align="center" src="images/CssIcon.svg" alt="Css"><img align="center" src="images/HtmlIcon.svg" alt="HTML"><img align="center" src="images/JsIcon.svg" alt="JavaScript"><img align="center" width="20px" src="images/vue.png" alt="Vue"><img align="center" width="20px" src="images/react.png" alt="React"><img align="center" width="20px" src="images/node.png" alt="Node">
-  </div>
-  </div>
-  <br><br>
-  
-  <div align="center">
-    <a href ="mailto:suyannesaramiranda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/suyanne-miranda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
-    <small>May the coffee be with you  <img src="images/wars.svg" align="center"></small> 
-  </div>
-  
-  <div align="center"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyanneSara&layout=compact&langs_count=7&theme=dracula"/></div>
-  
 
-  <!-- |                                      |                               |  
-  |---|---|
-  |<h3>I’m an entusiast of:</h3>Coffee ☕ Plants🌵 <br> Super-hero narratives 🛡️|<h3>Interested in: </h3><img align="center" src="images/CssIcon.svg" alt="Css"><img align="center" src="images/HtmlIcon.svg" alt="HTML"><img align="center" src="images/JsIcon.svg" alt="JavaScript"><img align="center" src="images/KotlinIcon.svg" alt="Kotlin"><img align="center" src="images/PhpIcon.svg" alt="PHP"><br><br>   |
-  <br> -->
-<!-- 
-> ### Let's take a coffee?
-> <a target="_blank" href="https://www.linkedin.com/in/suyanne-miranda/"><img src="images/lkdinLogo.svg"></a> 
-> <a target="_blank" href="https://stackoverflow.com/users/17331573/suyanne-miranda"><img src="images/StackOverflow.svg"></a> 
-> <a target="_blank" href="https://www.behance.net/suyannesara"><img src="images/Behance.svg"> <br></a>
-> <small>May the coffee be with you  <img src="images/wars.svg" align="center"></small>  -->
