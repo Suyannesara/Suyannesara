@@ -1,5 +1,5 @@
 ### 👩🏻‍💻 About Me:
-💭 I like to see codes as a way I can use to cause a positive impact on my community.<br>👩🏻‍🎓 I'm doing a degree in Analysis and Development of Systems<br>🤓 I'm an enthusiast of: Coffee☕| Plants🌵 | Super-hero narratives🛡️<br>🌱 I’m currently learning Vue.js integrations with APIs using Axios<br> 
+💭 I like to see codes as a way I can use to cause a positive impact on my community.<br>👩🏻‍🎓 I'm doing a degree in Software Engineering<br>🤓 I'm an enthusiast of: Coffee☕| Plants🌵 | Super-hero narratives🛡️ <br> ▶️ I`m currently a Software Engineer intert at Layers Education <br>
 
 
 ### 🌐 Let's take a coffee?: 
