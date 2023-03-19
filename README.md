@@ -1,5 +1,5 @@
 ### 👩🏻‍💻 About Me:
-💭 I like to see coding as a way I can use to cause a positive impact on my community.<br>👩🏻‍🎓 I'm doing a degree in Software Engineering at University of Brasília<br>🤓 I'm an enthusiast of: Coffee☕| Plants🌵 | Super-hero narratives🛡️ <br> ▶️ I'm currently a Software Engineer intern at Layers Education <br>
+💭 I like to see coding as a way I can use to cause a positive impact on my community.<br>👩🏻‍🎓 I'm doing a degree in Software Engineering at University of Brasília<br>🤓 I'm an enthusiast of: Coffee☕| Plants🌵 | Super-hero narratives🛡️ <br>
 
 
 ### 🌐 Let's take a coffee?: 
