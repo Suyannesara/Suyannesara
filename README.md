@@ -11,13 +11,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br>
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### 📊 GitHub Stats:
+<!-- ### 📊 GitHub Stats: -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=suyannesara&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=suyannesara&theme=highcontrast&hide_border=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suyannesara&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=suyannesara&theme=chalk&no-frame=true&no-bg=true&margin-w=4)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suyannesara&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Suyannesara&icon=3&color=8)](https://visitcount.itsvg.in)
