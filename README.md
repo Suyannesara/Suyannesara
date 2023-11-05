@@ -14,7 +14,7 @@
 <!-- ### 📊 GitHub Stats: -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=suyannesara&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=suyannesara&theme=highcontrast&hide_border=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyannesara&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyannesara&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=Suyannesara&icon=3&color=8)](https://visitcount.itsvg.in) -->
