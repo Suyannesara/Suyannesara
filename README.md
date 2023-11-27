@@ -11,7 +11,31 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br>
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-<!-- ### 📊 GitHub Stats: -->
+<!-- ### 📊 GitHub Stats: 
+<div align="center">
+<a href="https://github.com/Suyannesara">
+   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Suyannesara&theme=dark&hide_border=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyannesara&layout=compact&langs_count=5&theme=dark&count_private=true"/>
+</a>
+</div>
+<br /><br />
+<div align="center">
+<a href="https://github.com/Suyannesara">
+   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Suyannesara&theme=dark&hide_border=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyannesara&layout=compact&langs_count=5&theme=dark&count_private=true"/>
+</a>
+</div> -->
+
+### Stats
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suyannesara&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suyannesara&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suyannesara&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suyannesara&theme=nord_dark) | ![](https://github-readme-stats-wheat-one-23.vercel.app?user=Suyannesara&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
+<br />
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=suyannesara&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=suyannesara&theme=highcontrast&hide_border=true)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyannesara&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
