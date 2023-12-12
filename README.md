@@ -1,5 +1,8 @@
 ### 👩🏻‍💻 About Me:
-💭 I like to see coding as a way I can use to cause a positive impact on my community.<br>👩🏻‍🎓 I'm doing a degree in Software Engineering at University of Brasília<br>🤓 I'm an enthusiast of: Coffee☕| Plants🌵 | Super-hero narratives🛡️ <br>
+💭 I like to see coding as a way I can use to cause a positive impact on my community <br>
+👩🏻‍🎓 I'm doing a degree in Software Engineering at University of Brasília <br>
+🤓 I'm an enthusiast of: Coffee☕| Plants🌵 | Super-hero narratives🛡️ <br>
+🤖 I'm in love with exploring the field of robotics <br> <br>
 
 📑 I am currently studying:
 - 🤖 ROS2 - Robotics Operational System
