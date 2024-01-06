@@ -5,9 +5,8 @@
 🤖 I'm in love with exploring the field of robotics <br> <br>
 
 📑 I am currently studying:
-- 🤖 ROS2 - Robotics Operational System
-- ✅ OpenCV
-- 🧠 Yolo model training
+- 🤖 Machine Learning principles
+- 🚀 Docker
 
 <!--### 🌐 Let's take a coffee?: 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Suyanne#9896) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suyanne-miranda) 
