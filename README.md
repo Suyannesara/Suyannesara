@@ -1,5 +1,5 @@
 ### About Me:
-👩🏻‍🎓 Software Engineering Student at University of Brasília <br>
+👩🏻‍🎓 Computer Science Student at University of Brasília <br>
 🤖 Robotics Researcher <br>
 
 
