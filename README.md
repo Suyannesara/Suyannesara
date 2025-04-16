@@ -1,6 +1,6 @@
 ### About Me:
 👩🏻‍🎓 Computer Science Student at University of Brasília <br>
-🤖 Robotics Researcher <br>
+🤖 Robotics Researcher: I am currently working on keypoint detection for UAV autonomous landing, in collaboration with Aerolab-UnB.
 
 
 ### Stats
